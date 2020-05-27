@@ -1,0 +1,10 @@
+img {
+  cursor: pointer;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width: 400px;
+}
